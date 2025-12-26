@@ -1,4 +1,3 @@
-import { InlineWidget } from "react-calendly";
 
 
 export default function Card({ name, imgUrl, description }) {
