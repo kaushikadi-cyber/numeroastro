@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.App-Header{
+  background-color: azure;
+  text-align: center;
+  height: inherit;
+  width: inherit;
+}
+
+.jaini-font {
+  font-family: "Jaini", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 6.5em;
+  margin: 0 auto;
+}
+
+.kaisei-font {
+  font-family: "Kaisei Opti", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 7em;
+  margin: 0 auto;
+}
+
+.julius-font {
+  font-family: "Julius Sans One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0 auto;
+}
+
+.slider-body{
+  margin-top: 3rem;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
