@@ -1,8 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
 import SkillsSlider from './components/slider';
-import Card from './components/card';
-import { InlineWidget } from 'react-calendly';
 import Cal from '@calcom/embed-react';
 
 function App() {
