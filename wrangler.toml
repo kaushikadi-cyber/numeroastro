@@ -1,8 +1,0 @@
-# wrangler.toml
-[build]
-command = "npm run build"
-
-[[rules]]
-type = "Data"
-globs = ["**/*.gif", "**/*.woff", "**/*.svg", "**/*.ttf", "**/*.eot"]
-fallthrough = true
